@@ -1,0 +1,8 @@
+Déplacements hors combats
+Classes de joueur :
+	mage
+	archer
+	assassin
+Sorts et compétences
+Choix des carcatéristiques a up
+Drop d'objets
